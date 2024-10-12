@@ -1,5 +1,6 @@
 NHÓM 11
 Đề tài : Xây dựng mô hình Naive Bayes đánh giá điểm tín dụng 
+
 Để xây dựng mô hình Naive Bayes đánh giá điểm tín dụng, chúng ta có thể tuân theo các bước sau:
 
 1. Chuẩn bị dữ liệu
